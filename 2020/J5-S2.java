@@ -39,7 +39,7 @@ public class S220 {
 	}
 	
 	private static String findPathFromEnd(LinkedList<Node> room, Node source, Node destination) {
-		// Write a queue, if not the final element put all its children behind in the queue
+		// BFS Algorithm: Write a queue, if not the final element put all its children behind in the queue
 		LinkedList<Node> queue = new LinkedList<Node>();
 		queue.add(source);
 		boolean notDone;
