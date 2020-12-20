@@ -1,4 +1,4 @@
-// Only recieves 11/15, TLE for est of test cases
+// Only recieves 11/15, TLE for rest of test cases
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
