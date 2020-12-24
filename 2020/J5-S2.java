@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.LinkedList;
 
-public class S220 {
+public class Main {
 // M is rows, N is columns, new coordinates must multiply to number inside the old cell
     // Start at (1,1), end is (M,N)
 
