@@ -1,4 +1,4 @@
-# CCC-Solutions
+# Competitive Programming Solutions
 Solutions from past computing competitions. Past contests found on the DMOJ Online Judge. 
 
 Open a pull request if you have a more effective solution :)
