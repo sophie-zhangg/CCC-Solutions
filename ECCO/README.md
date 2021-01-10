@@ -1,1 +1,1 @@
-# ECCO-Problems
+# ECCO-Solutions
