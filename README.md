@@ -1,5 +1,5 @@
 # CCC-Solutions
-Past University of Waterloo's CEMC: Canadian Computing Competition solutions. Past contests found on the DMOJ Online Grader. 
+Past University of Waterloo's CEMC: Canadian Computing Competition solutions. Past contests found on the DMOJ Online Judge. 
 
 Open a pull request if you have a more effective solution :)
 
