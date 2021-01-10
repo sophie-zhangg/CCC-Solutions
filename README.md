@@ -1,5 +1,5 @@
 # CCC-Solutions
-University of Waterloo's CEMC: Canadian Computing Competition solutions. Past contests found at https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc. 
+Past University of Waterloo's CEMC: Canadian Computing Competition solutions. Past contests found at https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc. 
 
 Open a pull request if you have a more effective solution :)
 
